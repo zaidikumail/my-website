@@ -93,7 +93,7 @@ production stylesheet in assets/built/screen.css
 
 .site-header {
     position: relative;
-    color: #fff;
+    color: red;
     background: var(--ghost-accent-color);
 }
 
