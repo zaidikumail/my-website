@@ -122,7 +122,7 @@ production stylesheet in assets/built/screen.css
 .has-cover .site-header-content {
     min-height: 560px;
     background-color: #fff;
-    color: #fff;
+    color: rgb(14, 1, 1);
 }
 
 .site-header-content.left-aligned {
